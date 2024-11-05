@@ -3,7 +3,7 @@
 * **Date Created**: 05 Nov 2024  
 * **Last Modification Date**: 05 Nov 2024  
 * **Lab GitLab URL**: <https://git.cs.dal.ca/sangha/CSCI3172/-/tree/main/labs/lab7>  
-* **Lab Netlify URL**: <https://your-netlify-site-url.netlify.app>  
+* **Lab Netlify URL**: <https://guileless-dieffenbachia-69ef7e.netlify.app/>  
 
 ## Author
 
